@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_SAN_PABLO_KOKUERE.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo_imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="ETAPA_FAO" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Cantidad_d" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_SAN_PABLO_KOKUERE">
+      <name>Distrito_SAN PABLO KOKUERE</name>
+      <Placemark id="Distrito_SAN_PABLO_KOKUERE.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SAN_PABLO_KOKUERE.schema">
+            <SimpleData name="Cédula">5383145.00000000000</SimpleData>
+            <SimpleData name="cedula">5383145</SimpleData>
+            <SimpleData name="Cédula_1">5383145.00000000000</SimpleData>
+            <SimpleData name="N">182.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARGARITA RIVELA CARDOZO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SAN PABLO KOKUERE</SimpleData>
+            <SimpleData name="Localidad">CERRITO 2DO</SimpleData>
+            <SimpleData name="Teléfono">0984915872</SimpleData>
+            <SimpleData name="Vivienda_L">-24.14062440000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.88861480000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.14059641000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.88811484000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/15</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">0.23181712963</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">182</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.8881148364352,-24.1405964089858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SAN_PABLO_KOKUERE.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SAN_PABLO_KOKUERE.schema">
+            <SimpleData name="Cédula">7809862.00000000000</SimpleData>
+            <SimpleData name="cedula">7809862</SimpleData>
+            <SimpleData name="Cédula_1">7809862.00000000000</SimpleData>
+            <SimpleData name="N">183.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">FRANCISCO MANUEL CRISTALDO GONZALEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 4</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SAN PABLO KOKUERE</SimpleData>
+            <SimpleData name="Localidad">CERRITO 2DO</SimpleData>
+            <SimpleData name="Teléfono">0986294356</SimpleData>
+            <SimpleData name="Vivienda_L">-24.12162920000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.90671090000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.12222059000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.88748618000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/13</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">#N/A</SimpleData>
+            <SimpleData name="Observaci">Falta de conocimiento o comprensi?n del proyecto-La plantaci?n no tiene ni un tipo de cuidado, no se sabe ni donde mismo se plant? por falta de inter?s o conocimiento del proyecto</SimpleData>
+            <SimpleData name="Dias_trans">2.55274076389</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">183</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.8874861772801,-24.1222205948263,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_SAN_PABLO_KOKUERE.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SAN_PABLO_KOKUERE.schema">
+            <SimpleData name="Cédula">4511810.00000000000</SimpleData>
+            <SimpleData name="cedula">4511810</SimpleData>
+            <SimpleData name="Cédula_1">4511810.00000000000</SimpleData>
+            <SimpleData name="N">180.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA AUXILIADORA FERREIRA FRANCO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SAN PABLO KOKUERE</SimpleData>
+            <SimpleData name="Localidad">TATARE NORTE</SimpleData>
+            <SimpleData name="Teléfono">0981367183</SimpleData>
+            <SimpleData name="Vivienda_L">-24.10085900000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.83762600000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.10423121000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.83728962000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/06</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">9.03274305556</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">180</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -56.8373527692319,-24.1038010024975,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -56.8372137233864,-24.1047482771642,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_SAN_PABLO_KOKUERE.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_SAN_PABLO_KOKUERE.schema">
+            <SimpleData name="Cédula">6984996.00000000000</SimpleData>
+            <SimpleData name="cedula">6984996</SimpleData>
+            <SimpleData name="Cédula_1">6984996.00000000000</SimpleData>
+            <SimpleData name="N">181.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUANA ROSA MU?OZ GONZALEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">SAN PABLO KOKUERE</SimpleData>
+            <SimpleData name="Localidad">CERRITO 2DO</SimpleData>
+            <SimpleData name="Teléfono">0987233704</SimpleData>
+            <SimpleData name="Vivienda_L">-24.13233830000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.88987750000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.13741679000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.88758819000</SimpleData>
+            <SimpleData name="Grupo_Impl">G3</SimpleData>
+            <SimpleData name="Grupo_de_P">I-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Emilio Sol?s Grance</SimpleData>
+            <SimpleData name="Lote">I</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/15</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">0.23182870371</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">181</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -56.8875881909447,-24.1374167899052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

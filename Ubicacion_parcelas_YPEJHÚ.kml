@@ -1,0 +1,985 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_YPEJH__.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo_imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="ETAPA_FAO" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Cantidad_d" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_YPEJH__">
+      <name>Distrito_YPEJHÃš</name>
+      <Placemark id="Distrito_YPEJH__.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">8065321.00000000000</SimpleData>
+            <SimpleData name="cedula">8065321</SimpleData>
+            <SimpleData name="Cédula_1">8065321.00000000000</SimpleData>
+            <SimpleData name="N">34.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DIONICIO CHAPARRO GARCETE</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG KABAYU PASO</SimpleData>
+            <SimpleData name="Teléfono">0985899293</SimpleData>
+            <SimpleData name="Vivienda_L">-24.01055150000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.87105040000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.01089996000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.87181796000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P5-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/13</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Observaci">Falta de inter?s o no ve el beneficio-No tiene inter?s</SimpleData>
+            <SimpleData name="Dias_trans">2.47241017361</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">34</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.8718179555811,-24.0108999584528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">6740673.00000000000</SimpleData>
+            <SimpleData name="cedula">6740673</SimpleData>
+            <SimpleData name="Cédula_1">6740673.00000000000</SimpleData>
+            <SimpleData name="N">24.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ALICIA BENITEZ CHAPARRO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YVY PAVE CA?ADA</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.95969000000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.90486830000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.95286313000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.90076937000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P14-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/14</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">1.60881944445</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">24</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9004061130293,-23.9527865898809,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">5885683.00000000000</SimpleData>
+            <SimpleData name="cedula">5885683</SimpleData>
+            <SimpleData name="Cédula_1">5885683.00000000000</SimpleData>
+            <SimpleData name="N">80.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARCIA LOPEZ BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ITANARA-PARIRI</SimpleData>
+            <SimpleData name="Teléfono">0986705917</SimpleData>
+            <SimpleData name="Vivienda_L">-23.83713350000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.68363320000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.84187687000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.68476313000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P9-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">1/9/2026</SimpleData>
+            <SimpleData name="F__de_pren">60</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear Reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/20</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">?????? NO CUMPLE ??????</SimpleData>
+            <SimpleData name="Situaci_12">Al momento del monitoreo de mantenimiento y asistencia t?cnica se observa que la parcela no cumple con las especificaciones t?cnicas establecidas. Se observa da?os por herbicida, ataque de hormigas cortadoras y falta de prendimiento de plantines. Se s</SimpleData>
+            <SimpleData name="Dias_trans">26.58385416670</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">80</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6847631283944,-23.8418768715119,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">5829456.00000000000</SimpleData>
+            <SimpleData name="cedula">5829456</SimpleData>
+            <SimpleData name="Cédula_1">5829456.00000000000</SimpleData>
+            <SimpleData name="N">78.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VICTORIANA RAMIREZ FERNANDEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ITANARA-PARIRI</SimpleData>
+            <SimpleData name="Teléfono">0982079023</SimpleData>
+            <SimpleData name="Vivienda_L">-23.83794770000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.68509480000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.83877383000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.68495961000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">19/10/2026</SimpleData>
+            <SimpleData name="F__de_pren">70</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/09</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">Se realiz? limpieza y reposici?n de plantines de r?pido crecimiento, falta reposici?n de plantines de c?tricos y nativas. Se recomienda reponer cantidad faltante</SimpleData>
+            <SimpleData name="Dias_trans">6.09765046297</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">78</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6849596143306,-23.8387738324163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">6737049.00000000000</SimpleData>
+            <SimpleData name="cedula">6737049</SimpleData>
+            <SimpleData name="Cédula_1">6737049.00000000000</SimpleData>
+            <SimpleData name="N">171.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SONIA LOPEZ JARA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 2</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ITANARA-PARIRI</SimpleData>
+            <SimpleData name="Teléfono">0986686518</SimpleData>
+            <SimpleData name="Vivienda_L">-23.83685070000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.68432780000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.83677033000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.68604260000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P8-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">1/9/2026</SimpleData>
+            <SimpleData name="F__de_pren">60</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/10</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">?????? NO CUMPLE ??????</SimpleData>
+            <SimpleData name="Situaci_12">Al momento del monitoreo de mantenimiento y asistencia t?cnica se observa que la parcela no cumple con las especificaciones t?cnicas establecidas. En las parcelas 1y 3 no se realiz? mantenimiento solo se aplic? herbicida. En la parcela 2 se observa r</SimpleData>
+            <SimpleData name="Dias_trans">5.64525462963</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">171</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <MultiGeometry>
+          <Point>
+            <coordinates>
+              -55.6863466423428,-23.837693085292,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.6860419788944,-23.8365475564232,0
+            </coordinates>
+          </Point>
+          <Point>
+            <coordinates>
+              -55.6854186349004,-23.8359728632715,0
+            </coordinates>
+          </Point>
+        </MultiGeometry>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">6740573.00000000000</SimpleData>
+            <SimpleData name="cedula">6740573</SimpleData>
+            <SimpleData name="Cédula_1">6740573.00000000000</SimpleData>
+            <SimpleData name="N">33.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SILVINO TORRES</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG NARANDAY</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.95338020000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.83581830000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.95056910000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.82858130000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P5-P11X-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/13</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Observaci">Falta de inter?s o no ve el beneficio-Demasiado sucio la parcela no hay inter?s</SimpleData>
+            <SimpleData name="Dias_trans">2.55107430556</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">33</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.8285812953069,-23.9505691035143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">4046192.00000000000</SimpleData>
+            <SimpleData name="cedula">4046192</SimpleData>
+            <SimpleData name="Cédula_1">4046192.00000000000</SimpleData>
+            <SimpleData name="N">40.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">CATALINO BENITEZ ROMERO</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YVY PAVE CA?ADA</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.95964710000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.90480830000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.95238292000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.90086890000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P14-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">8/9/2026</SimpleData>
+            <SimpleData name="F__de_pren">70</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/14</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">?????? NO CUMPLE ??????</SimpleData>
+            <SimpleData name="Situaci_12">Se visualiza que se realizaron reposiones en algunas hileras, se observan muy pocas plantas activas de r?pido crecimiento,  no obstante las plantas de reposici?n est?n marchitas, no se visualiza reposici?n de plantas nativas. Se recomienda reponer ca</SimpleData>
+            <SimpleData name="Dias_trans">1.63047453704</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">40</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.9008689024297,-23.9523829193048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.8">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">6740952.00000000000</SimpleData>
+            <SimpleData name="cedula">6740952</SimpleData>
+            <SimpleData name="Cédula_1">6740952.00000000000</SimpleData>
+            <SimpleData name="N">172.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LINDA RAMIREZ COLARTE</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ITANARA-PARIRI</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.83282270000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.68300860000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.83267343000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.68403866000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P8-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">1/9/2026</SimpleData>
+            <SimpleData name="F__de_pren">50</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear Reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/09</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">?????? NO CUMPLE ??????</SimpleData>
+            <SimpleData name="Situaci_12">Al momento del monitoreo de mantenimiento y asistencia t?cnica se observa que la parcela no cumple con las especificaciones t?cnicas establecidas. Se visualiza presencia importante de malezas invasoras,  ataque de hormigas cortadoras y faltantes de pla</SimpleData>
+            <SimpleData name="Dias_trans">6.09767361111</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">172</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6840386636266,-23.832673429411,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.9">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">5829448.00000000000</SimpleData>
+            <SimpleData name="cedula">5829448</SimpleData>
+            <SimpleData name="Cédula_1">5829448.00000000000</SimpleData>
+            <SimpleData name="N">77.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NILSA VALIENTE GONZALEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ITANARA-PARIRI</SimpleData>
+            <SimpleData name="Teléfono">0982744976</SimpleData>
+            <SimpleData name="Vivienda_L">-23.83634710000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.68310970000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.84063915000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.69127584000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">1/9/2026</SimpleData>
+            <SimpleData name="F__de_pren">50</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/10</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">?????? NO CUMPLE ??????</SimpleData>
+            <SimpleData name="Situaci_12">Al momento del monitoreo de mantenimiento y asistencia t?cnica se observa que la parcela no cumple con las especificaciones t?cnicas establecidas. Se observa que la empresa no realiz? el mantenimiento correspondiente. Se visualiza faltante de plantine</SimpleData>
+            <SimpleData name="Dias_trans">5.21590277777</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">77</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6912758393373,-23.8406391503049,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.10">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">6628266.00000000000</SimpleData>
+            <SimpleData name="cedula">6628266</SimpleData>
+            <SimpleData name="Cédula_1">6628266.00000000000</SimpleData>
+            <SimpleData name="N">161.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LUCINEIA MEDINA LOPEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG PYPUCU</SimpleData>
+            <SimpleData name="Teléfono">0981663996</SimpleData>
+            <SimpleData name="Vivienda_L">-23.89741290000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.65464150000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.89798108000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.65435322000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">7/10/2026</SimpleData>
+            <SimpleData name="F__de_pren">70</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/11</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">Al momento del monitoreo de mantenimiento y asistencia t?cnica se observa que la parcela no cumple las especificaciones t?cnicas establecidas. La empresa no realiz? reposici?n de c?tricos. Se sugiere reposici?n de plantines de c?tricos considerand</SimpleData>
+            <SimpleData name="Dias_trans">4.28855324074</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">161</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6543532209383,-23.8979810798194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.11">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">6757498.00000000000</SimpleData>
+            <SimpleData name="cedula">6757498</SimpleData>
+            <SimpleData name="Cédula_1">6757498.00000000000</SimpleData>
+            <SimpleData name="N">174.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">GENARA VERGARA LOPEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ITANARA-PARIRI</SimpleData>
+            <SimpleData name="Teléfono">0986705917</SimpleData>
+            <SimpleData name="Vivienda_L">-23.83749330000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.68432000000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.84034640000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.68455143000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P8-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">1/9/2026</SimpleData>
+            <SimpleData name="F__de_pren">70</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/10</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">?????? NO CUMPLE ??????</SimpleData>
+            <SimpleData name="Situaci_12">Al momento del monitoreo de mantenimiento y asistencia t?cnica se observa que la parcela no cumple con las especificaciones t?cnicas establecidas. Se observa da?os causados por herbicidas, reposici?n de plantines a medias (se realiz? en una parte de</SimpleData>
+            <SimpleData name="Dias_trans">5.64519675926</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">174</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6845514299667,-23.840346402136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.12">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">8023470.00000000000</SimpleData>
+            <SimpleData name="cedula">8023470</SimpleData>
+            <SimpleData name="Cédula_1">8023470.00000000000</SimpleData>
+            <SimpleData name="N">36.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JUAN VENIALGO ARCE</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YVY KATU</SimpleData>
+            <SimpleData name="Teléfono">0986531609</SimpleData>
+            <SimpleData name="Vivienda_L">-23.97064670000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.85805500000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.97120289000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.85763354000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/28</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">?????? CUMPLE??????</SimpleData>
+            <SimpleData name="Observaci">Falta de inter?s o no ve el beneficio-Motivo de la desercion 
+El due?o puso animal en la parcela, en donde se observa que caus? da?o a los plantines</SimpleData>
+            <SimpleData name="Dias_trans">18.37099098380</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">36</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.8576335362084,-23.9712028933557,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.13">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">8474349.00000000000</SimpleData>
+            <SimpleData name="cedula">8474349</SimpleData>
+            <SimpleData name="Cédula_1">8474349.00000000000</SimpleData>
+            <SimpleData name="N">262.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">DAMIANA GAUTO MARTINEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG PYPUCU</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.89829020000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.66683900000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.89447812000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.66823451000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P6-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Verificar posible desercion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/10</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">?????? NO CUMPLE ??????</SimpleData>
+            <SimpleData name="Observaci">Falta de inter?s o no ve el beneficio-Falta inter?s sucio la parcela</SimpleData>
+            <SimpleData name="Dias_trans">5.31283090277</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">262</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6682345091511,-23.8944781189326,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.14">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">8021332.00000000000</SimpleData>
+            <SimpleData name="cedula">8021332</SimpleData>
+            <SimpleData name="Cédula_1">8021332.00000000000</SimpleData>
+            <SimpleData name="N">35.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ELVIO ESPINOLA OCAMPOS</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YVY KATU</SimpleData>
+            <SimpleData name="Teléfono">0986880439</SimpleData>
+            <SimpleData name="Vivienda_L">-23.96970680000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.85775790000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.96921070000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.85725662000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P12-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">8/10/2026</SimpleData>
+            <SimpleData name="F__de_pren">60</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/12</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">Al momento del monitoreo de mantenimiento y asistencia t?cnica se observa que la parcela no cumple con las especificaciones t?cnicas establecidas. Se observa presencia importante de malezas invasoras, en una parte de la parcela. La empresa no realiz?</SimpleData>
+            <SimpleData name="Dias_trans">3.20622685185</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">35</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.8572566227009,-23.9692107043085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.15">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">6795114.00000000000</SimpleData>
+            <SimpleData name="cedula">6795114</SimpleData>
+            <SimpleData name="Cédula_1">6795114.00000000000</SimpleData>
+            <SimpleData name="N">155.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NANCI SALINAS MONTANIA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YVY KATU</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.97696890000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.86618920000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.97712288000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.86660559000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P8-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">8/10/2026</SimpleData>
+            <SimpleData name="F__de_pren">60</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/12</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">Al momento del monitoreo de mantenimiento y asistencia t?cnica se observa que la parcela no cumple con las especificaciones t?cnicas establecidas. Se observa presencia importante de malezas invasoras, en una parte de la parcela. La empresa no realiz?</SimpleData>
+            <SimpleData name="Dias_trans">3.19265046297</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">155</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.8666055876541,-23.9771228757832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.16">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">8061420.00000000000</SimpleData>
+            <SimpleData name="cedula">8061420</SimpleData>
+            <SimpleData name="Cédula_1">8061420.00000000000</SimpleData>
+            <SimpleData name="N">39.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PETRONA DUARTE OCAMPO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG YVY KATU</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-23.96624180000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.86126370000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.96608131000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.85877943000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P7-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">8/10/2026</SimpleData>
+            <SimpleData name="F__de_pren">50</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/12</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">Al momento del monitoreo de mantenimiento y asistencia t?cnica se observa que la parcela no cumple con las especificaciones t?cnicas establecidas. Se observa presencia importante de malezas invasoras (gram?neas), en la parcela. La empresa no realiz?</SimpleData>
+            <SimpleData name="Dias_trans">3.20084490741</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">39</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.8587794292486,-23.9660813112852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark id="Distrito_YPEJH__.17">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YPEJH__.schema">
+            <SimpleData name="Cédula">5829383.00000000000</SimpleData>
+            <SimpleData name="cedula">5829383</SimpleData>
+            <SimpleData name="Cédula_1">5829383.00000000000</SimpleData>
+            <SimpleData name="N">76.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NICOLASA BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">CANINDEYU</SimpleData>
+            <SimpleData name="Distrito">YPEJH?</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ITANARA-PARIRI</SimpleData>
+            <SimpleData name="Teléfono">0986705917</SimpleData>
+            <SimpleData name="Vivienda_L">-23.83862960000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.68903370000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-23.83979453000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.69010629000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">H-P8-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">H</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">19/10/2026</SimpleData>
+            <SimpleData name="F__de_pren">60</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/10</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">Trabajos de mantenimiento realizado parcialmente, falta completar reposici?n de plantines de c?tricos y de crecimiento r?pido, se recomienda realizar reposici?n para completar cantidad requerida</SimpleData>
+            <SimpleData name="Dias_trans">5.14250000000</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">76</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            -55.6901062887966,-23.8397945290305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

@@ -1,0 +1,436 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_PASO_YOBAI.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo_imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="ETAPA_FAO" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Cantidad_d" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_PASO_YOBAI">
+      <name>Distrito_PASO YOBAI</name>
+      <Placemark id="Distrito_PASO_YOBAI.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">4632374.00000000000</SimpleData>
+            <SimpleData name="cedula">4632374</SimpleData>
+            <SimpleData name="Cédula_1">4632374.00000000000</SimpleData>
+            <SimpleData name="N">83.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PABLITO BENITEZ RAMIREZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ARROYO HU</SimpleData>
+            <SimpleData name="Teléfono">0984147165</SimpleData>
+            <SimpleData name="Vivienda_L">-25.67281570000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.99094440000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-25.67182570000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.99189627000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/12</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">3.24400462963</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">83</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.9912750003041,-25.672313300366,0
+                -55.9916833007704,-25.6725350004815,0
+                -55.9925683003271,-25.6714166998803,0
+                -55.9919667003779,-25.6711583004287,0
+                -55.9912750003041,-25.672313300366,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">6198521.00000000000</SimpleData>
+            <SimpleData name="cedula">6198521</SimpleData>
+            <SimpleData name="Cédula_1">6198521.00000000000</SimpleData>
+            <SimpleData name="N">84.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA BENITEZ RAMIREZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ARROYO HU</SimpleData>
+            <SimpleData name="Teléfono">0986219054</SimpleData>
+            <SimpleData name="Vivienda_L">-25.67277520000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.99199070000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-25.67215260000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.99264712000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/12</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">3.24835648148</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">84</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.9918590992749,-25.6726008005455,0
+                -55.9925416994149,-25.6728966999997,0
+                -55.9933750000286,-25.6717599996042,0
+                -55.9928649994924,-25.671335000144,0
+                -55.9918590992749,-25.6726008005455,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">6198496.00000000000</SimpleData>
+            <SimpleData name="cedula">6198496</SimpleData>
+            <SimpleData name="Cédula_1">6198496.00000000000</SimpleData>
+            <SimpleData name="N">87.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NORMA SILVA RAMIREZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ARROYO HU</SimpleData>
+            <SimpleData name="Teléfono">0983317196</SimpleData>
+            <SimpleData name="Vivienda_L">-25.67354290000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.99211290000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-25.67263990000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.99295891000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/12</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">3.25100694445</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">87</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.9924608348696,-25.6735527142232,0
+                -55.9926821204668,-25.6732872666909,0
+                -55.9928634409154,-25.6730479406153,0
+                -55.9932249993425,-25.6725383005655,0
+                -55.9932416038022,-25.672548804807,0
+                -55.9932801819521,-25.6724978834355,0
+                -55.9936751999286,-25.6719764996105,0
+                -55.9935618963201,-25.6718936448984,0
+                -55.9933883004847,-25.6717666994012,0
+                -55.9922550002953,-25.6733199993308,0
+                -55.9924608348696,-25.6735527142232,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">6204263.00000000000</SimpleData>
+            <SimpleData name="cedula">6204263</SimpleData>
+            <SimpleData name="Cédula_1">6204263.00000000000</SimpleData>
+            <SimpleData name="N">82.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NANCY GONZALEZ BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ARROYO HU</SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-25.67249180000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.99084000000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-25.67190337000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.99105937000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">B-P1-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/12</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">3.24074074074</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">82</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.9905318402392,-25.6720350180693,0
+                -55.9904556002211,-25.6721350994079,0
+                -55.9906542994771,-25.6723226006936,0
+                -55.9907091452184,-25.6723217659554,0
+                -55.9912666998709,-25.672313300366,0
+                -55.9916417006879,-25.6716833004627,0
+                -55.9910600002189,-25.6713416991553,0
+                -55.9905318402392,-25.6720350180693,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">7474055.00000000000</SimpleData>
+            <SimpleData name="cedula">7474055</SimpleData>
+            <SimpleData name="Cédula_1">7474055.00000000000</SimpleData>
+            <SimpleData name="N">86.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">VILMA RAMIREZ AQUINO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ARROYO HU</SimpleData>
+            <SimpleData name="Teléfono">0984147165</SimpleData>
+            <SimpleData name="Vivienda_L">-25.67146830000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.98900180000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-25.67065891000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.98961325000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">B-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/12</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">3.11625000000</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">86</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.9895445423346,-25.6712743471136,0
+                -55.9896354006374,-25.6713194006924,0
+                -55.9899249671794,-25.6707010609792,0
+                -55.9900800002277,-25.6703700001538,0
+                -55.9898750001883,-25.6699600002728,0
+                -55.9897304001737,-25.6699547998561,0
+                -55.9890417004729,-25.6710250000298,0
+                -55.9895445423346,-25.6712743471136,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_PASO_YOBAI.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_PASO_YOBAI.schema">
+            <SimpleData name="Cédula">8319589.00000000000</SimpleData>
+            <SimpleData name="cedula">8319589</SimpleData>
+            <SimpleData name="Cédula_1">8319589.00000000000</SimpleData>
+            <SimpleData name="N">85.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">JORGE MACIEL FERNANDEZ</SimpleData>
+            <SimpleData name="Sexo">Hombre</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">GUAIRA</SimpleData>
+            <SimpleData name="Distrito">PASO YOBAI</SimpleData>
+            <SimpleData name="Localidad">COM INDIG ARROYO HU</SimpleData>
+            <SimpleData name="Teléfono">0994522740</SimpleData>
+            <SimpleData name="Vivienda_L">-25.66785080000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.99441150000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Par?metro</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-25.66869939000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.99654047000</SimpleData>
+            <SimpleData name="Grupo_Impl">G2</SimpleData>
+            <SimpleData name="Grupo_de_P">B-P4-XX-XX-XX</SimpleData>
+            <SimpleData name="Jornales">0.00000000000</SimpleData>
+            <SimpleData name="Monto">0.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Unique Wood Paraguay SA</SimpleData>
+            <SimpleData name="Lote">B</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">SI</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 1.1</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/12</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">3.11601851852</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">85</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.9964200031775,-25.6681375556833,0
+                -55.9959945008718,-25.6686121997996,0
+                -55.9961356998648,-25.6688404998843,0
+                -55.9967333005143,-25.6692550004683,0
+                -55.9970933003644,-25.6687466995793,0
+                -55.99660087896,-25.668288785334,0
+                -55.9964283000175,-25.668128299561,0
+                -55.9964200031775,-25.6681375556833,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>

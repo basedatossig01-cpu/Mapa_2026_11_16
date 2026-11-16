@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document id="root_doc">
+    <Schema id="Distrito_YRYBUCUA.schema">
+      <SimpleField name="Cédula" type="double"/>
+      <SimpleField name="cedula" type="string"/>
+      <SimpleField name="Cédula_1" type="double"/>
+      <SimpleField name="N" type="double"/>
+      <SimpleField name="Nombres_y_" type="string"/>
+      <SimpleField name="Sexo" type="string"/>
+      <SimpleField name="Cambio_de_" type="string"/>
+      <SimpleField name="Titular_se" type="string"/>
+      <SimpleField name="Cédula_Ti" type="string"/>
+      <SimpleField name="Situación" type="string"/>
+      <SimpleField name="Comunidad" type="string"/>
+      <SimpleField name="Modelo_imp" type="string"/>
+      <SimpleField name="Departamen" type="string"/>
+      <SimpleField name="Distrito" type="string"/>
+      <SimpleField name="Localidad" type="string"/>
+      <SimpleField name="Teléfono" type="string"/>
+      <SimpleField name="Vivienda_L" type="double"/>
+      <SimpleField name="Vivienda_1" type="double"/>
+      <SimpleField name="Superficie" type="double"/>
+      <SimpleField name="Situaci_1" type="string"/>
+      <SimpleField name="Plantado" type="string"/>
+      <SimpleField name="Parcela_La" type="double"/>
+      <SimpleField name="Parcela_Lo" type="double"/>
+      <SimpleField name="Grupo_Impl" type="string"/>
+      <SimpleField name="Grupo_de_P" type="string"/>
+      <SimpleField name="Jornales" type="double"/>
+      <SimpleField name="Monto" type="double"/>
+      <SimpleField name="ETAPA_FAO" type="string"/>
+      <SimpleField name="Estado_del" type="string"/>
+      <SimpleField name="Empresa" type="string"/>
+      <SimpleField name="Lote" type="string"/>
+      <SimpleField name="Cantidad_d" type="string"/>
+      <SimpleField name="Monitorear" type="string"/>
+      <SimpleField name="Fecha_de_M" type="string"/>
+      <SimpleField name="F__de_pren" type="string"/>
+      <SimpleField name="Estado_FAO" type="string"/>
+      <SimpleField name="Etapa_de_i" type="string"/>
+      <SimpleField name="Fecha_visi" type="string"/>
+      <SimpleField name="Cumple_sup" type="string"/>
+      <SimpleField name="Estado_mon" type="string"/>
+      <SimpleField name="Situaci_12" type="string"/>
+      <SimpleField name="Observaci" type="string"/>
+      <SimpleField name="Dias_trans" type="double"/>
+      <SimpleField name="Prioridad" type="string"/>
+      <SimpleField name="OBJECTID_1" type="int"/>
+    </Schema>
+    <Document id="Distrito_YRYBUCUA">
+      <name>Distrito_YRYBUCUA</name>
+      <Placemark id="Distrito_YRYBUCUA.1">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YRYBUCUA.schema">
+            <SimpleData name="Cédula">5710084.00000000000</SimpleData>
+            <SimpleData name="cedula">5710084</SimpleData>
+            <SimpleData name="Cédula_1">5710084.00000000000</SimpleData>
+            <SimpleData name="N">3.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">MARIA MERCEDES AGUILAR PANIAGUA</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">YRYBUCUA</SimpleData>
+            <SimpleData name="Localidad"><![CDATA[VY'A RENDA]]></SimpleData>
+            <SimpleData name="Teléfono">ND</SimpleData>
+            <SimpleData name="Vivienda_L">-24.48171330000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.17543010000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.47702143000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.17081420000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-G5-P1P1-P1P1-XX</SimpleData>
+            <SimpleData name="Jornales">8.00000000000</SimpleData>
+            <SimpleData name="Monto">914316.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">21/10/2026</SimpleData>
+            <SimpleData name="F__de_pren">75</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear reposicion</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/14</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">??????NO CUMPLE??????</SimpleData>
+            <SimpleData name="Situaci_12">Cantidad de plantines inferior a la requerida</SimpleData>
+            <SimpleData name="Dias_trans">1.94528935185</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">3</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1701541000745,-24.4768028999351,0
+                -56.170922098557,-24.4775807998372,0
+                -56.1714734000367,-24.4773142013265,0
+                -56.1707283005092,-24.4764333004259,0
+                -56.1701541000745,-24.4768028999351,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YRYBUCUA.2">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YRYBUCUA.schema">
+            <SimpleData name="Cédula">6749116.00000000000</SimpleData>
+            <SimpleData name="cedula">6749116</SimpleData>
+            <SimpleData name="Cédula_1">6749116.00000000000</SimpleData>
+            <SimpleData name="N">173.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">LISA ESTER ALEGRE ALBARES</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">YRYBUCUA</SimpleData>
+            <SimpleData name="Localidad">COM INDIG Y APY SANTA ISABEL</SimpleData>
+            <SimpleData name="Teléfono">983651467</SimpleData>
+            <SimpleData name="Vivienda_L">-24.51349050000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.13086730000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.51340825000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.13107895000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-P2P2-P2P2-XX</SimpleData>
+            <SimpleData name="Jornales">8.00000000000</SimpleData>
+            <SimpleData name="Monto">936616.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/12</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">3.24212962963</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">173</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1304657995935,-24.5131114005426,0
+                -56.1309798003277,-24.5140356006497,0
+                -56.1316900003065,-24.5136333007592,0
+                -56.1312003016956,-24.5128257996128,0
+                -56.1304657995935,-24.5131114005426,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YRYBUCUA.3">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YRYBUCUA.schema">
+            <SimpleData name="Cédula">6572103.00000000000</SimpleData>
+            <SimpleData name="cedula">6572103</SimpleData>
+            <SimpleData name="Cédula_1">6572103.00000000000</SimpleData>
+            <SimpleData name="N">157.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">NORMA RAMIREZ BENITEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">YRYBUCUA</SimpleData>
+            <SimpleData name="Localidad">COM INDIG Y APY ARROYO SAYJU</SimpleData>
+            <SimpleData name="Teléfono">0975497037</SimpleData>
+            <SimpleData name="Vivienda_L">-24.52437230000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.14542850000</SimpleData>
+            <SimpleData name="Superficie">0.80000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.52380180000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.14619749000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-G5-P2P2-P2P2-XX</SimpleData>
+            <SimpleData name="Jornales">8.00000000000</SimpleData>
+            <SimpleData name="Monto">914316.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/30</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">16.55693287040</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">157</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1471856775478,-24.5232704590714,0
+                -56.1465169968031,-24.5235143476697,0
+                -56.1464806725263,-24.5234890667708,0
+                -56.1452570458367,-24.5239803454903,0
+                -56.1448414717116,-24.524201206815,0
+                -56.1449971228009,-24.5243997455648,0
+                -56.1452508968686,-24.5242478094439,0
+                -56.145542467552,-24.5240611372962,0
+                -56.1457056330486,-24.5239541975551,0
+                -56.145799892373,-24.5241994799135,0
+                -56.1461543675842,-24.52395615248,0
+                -56.1463757106735,-24.5240056091276,0
+                -56.1473875253989,-24.523490793682,0
+                -56.1471856775478,-24.5232704590714,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YRYBUCUA.4">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YRYBUCUA.schema">
+            <SimpleData name="Cédula">1454533.00000000000</SimpleData>
+            <SimpleData name="cedula">1454533</SimpleData>
+            <SimpleData name="Cédula_1">1454533.00000000000</SimpleData>
+            <SimpleData name="N">1.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">PORFIRIA BEATRIZ MENDEZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">YRYBUCUA</SimpleData>
+            <SimpleData name="Localidad">COM INDIG PALOMITA - 2</SimpleData>
+            <SimpleData name="Teléfono">0982834351</SimpleData>
+            <SimpleData name="Vivienda_L">-24.54655590000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.22378490000</SimpleData>
+            <SimpleData name="Superficie">0.70000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.54760434000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.22456531000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-P1-P2P2-P2P2-XX</SimpleData>
+            <SimpleData name="Jornales">8.00000000000</SimpleData>
+            <SimpleData name="Monto">936616.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/10</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">5.97833333333</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">1</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.2244637996331,-24.5481333003522,0
+                -56.224530200404,-24.5481475999317,0
+                -56.2252257003514,-24.54774319984,0
+                -56.2246796998302,-24.5471305999662,0
+                -56.2242897995558,-24.5471823999865,0
+                -56.2239972003015,-24.5473556001482,0
+                -56.2239506001961,-24.547420999463,0
+                -56.2244637996331,-24.5481333003522,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YRYBUCUA.5">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YRYBUCUA.schema">
+            <SimpleData name="Cédula">4933794.00000000000</SimpleData>
+            <SimpleData name="cedula">4933794</SimpleData>
+            <SimpleData name="Cédula_1">4933794.00000000000</SimpleData>
+            <SimpleData name="N">38.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ANTONIA AQUINO PEREZ</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Campesina</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 5</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">YRYBUCUA</SimpleData>
+            <SimpleData name="Localidad">SAN ISIDRO</SimpleData>
+            <SimpleData name="Teléfono">0975904399</SimpleData>
+            <SimpleData name="Vivienda_L">-24.50876940000</SimpleData>
+            <SimpleData name="Vivienda_1">-55.99753320000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.50892185000</SimpleData>
+            <SimpleData name="Parcela_Lo">-55.99663475000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-G3-P2P2-P2P2-XX</SimpleData>
+            <SimpleData name="Jornales">8.00000000000</SimpleData>
+            <SimpleData name="Monto">914316.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/09</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">6.53218750000</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">38</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -55.9960899998714,-24.5085409999202,0
+                -55.9961339005393,-24.5093041003754,0
+                -55.9971431999818,-24.5092630004718,0
+                -55.9972249996733,-24.5086083002374,0
+                -55.9960899998714,-24.5085409999202,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YRYBUCUA.6">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YRYBUCUA.schema">
+            <SimpleData name="Cédula">3959695.00000000000</SimpleData>
+            <SimpleData name="cedula">3959695</SimpleData>
+            <SimpleData name="Cédula_1">3959695.00000000000</SimpleData>
+            <SimpleData name="N">14.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">ASUNCIONA ENCISO GALEANO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">NO</SimpleData>
+            <SimpleData name="Titular_se">NO</SimpleData>
+            <SimpleData name="Situación">NO</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">YRYBUCUA</SimpleData>
+            <SimpleData name="Localidad">COM INDIG Y APY MBURUCUYA</SimpleData>
+            <SimpleData name="Teléfono">0983741904</SimpleData>
+            <SimpleData name="Vivienda_L">-24.52086840000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.11964640000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.52230829000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.12577561000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-G2-P2P2-P2P2-XX</SimpleData>
+            <SimpleData name="Jornales">8.00000000000</SimpleData>
+            <SimpleData name="Monto">914316.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/10/31</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">15.53298611110</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">14</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1252242996922,-24.5218912003305,0
+                -56.1253935000709,-24.5227822007082,0
+                -56.1263236004447,-24.5226674008688,0
+                -56.1262110999301,-24.5218999003793,0
+                -56.1252242996922,-24.5218912003305,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+      <Placemark id="Distrito_YRYBUCUA.7">
+        <ExtendedData>
+          <SchemaData schemaUrl="#Distrito_YRYBUCUA.schema">
+            <SimpleData name="Cédula">5144889.00000000000</SimpleData>
+            <SimpleData name="cedula">5144889</SimpleData>
+            <SimpleData name="Cédula_1">5144889.00000000000</SimpleData>
+            <SimpleData name="N">42.00000000000</SimpleData>
+            <SimpleData name="Nombres_y_">SILVERIA LEZCANO ENCISO</SimpleData>
+            <SimpleData name="Sexo">Mujer</SimpleData>
+            <SimpleData name="Cambio_de_">SI</SimpleData>
+            <SimpleData name="Titular_se">MARIA LIDA LEZCANO ENCISO</SimpleData>
+            <SimpleData name="Cédula_Ti">5316156</SimpleData>
+            <SimpleData name="Situación">Se fue a trabajar a Brasil.</SimpleData>
+            <SimpleData name="Comunidad">Ind?gena</SimpleData>
+            <SimpleData name="Modelo_imp">Modelo 1</SimpleData>
+            <SimpleData name="Departamen">SAN PEDRO</SimpleData>
+            <SimpleData name="Distrito">YRYBUCUA</SimpleData>
+            <SimpleData name="Localidad">COM INDIG Y APY SANTA ISABEL</SimpleData>
+            <SimpleData name="Teléfono">0975374444</SimpleData>
+            <SimpleData name="Vivienda_L">-24.50613500000</SimpleData>
+            <SimpleData name="Vivienda_1">-56.12552330000</SimpleData>
+            <SimpleData name="Superficie">0.90000000000</SimpleData>
+            <SimpleData name="Situaci_1">Pol?gono</SimpleData>
+            <SimpleData name="Plantado">SI</SimpleData>
+            <SimpleData name="Parcela_La">-24.50832189000</SimpleData>
+            <SimpleData name="Parcela_Lo">-56.12021984000</SimpleData>
+            <SimpleData name="Grupo_Impl">G1</SimpleData>
+            <SimpleData name="Grupo_de_P">Lote 1-G2-P2P2-P2P2-XX</SimpleData>
+            <SimpleData name="Jornales">8.00000000000</SimpleData>
+            <SimpleData name="Monto">936616.00000000000</SimpleData>
+            <SimpleData name="ETAPA_FAO">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Estado_del">Activo</SimpleData>
+            <SimpleData name="Empresa">Hyh Consultores SRL</SimpleData>
+            <SimpleData name="Lote">Lote 1</SimpleData>
+            <SimpleData name="Cantidad_d">-</SimpleData>
+            <SimpleData name="Monitorear">NO</SimpleData>
+            <SimpleData name="Fecha_de_M">-</SimpleData>
+            <SimpleData name="F__de_pren">-</SimpleData>
+            <SimpleData name="Estado_FAO">Monitorear</SimpleData>
+            <SimpleData name="Etapa_de_i">Mantenimiento A?o 2</SimpleData>
+            <SimpleData name="Fecha_visi">2026/11/10</SimpleData>
+            <SimpleData name="Cumple_sup">SI</SimpleData>
+            <SimpleData name="Estado_mon">-</SimpleData>
+            <SimpleData name="Dias_trans">5.97784722222</SimpleData>
+            <SimpleData name="Prioridad">ALTA</SimpleData>
+            <SimpleData name="OBJECTID_1">42</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+        <Polygon>
+          <outerBoundaryIs>
+            <LinearRing>
+              <coordinates>
+                -56.1196367992863,-24.5083325000606,0
+                -56.1200340001689,-24.5089499000613,0
+                -56.120881300128,-24.5083844002791,0
+                -56.1203110001783,-24.5077058998448,0
+                -56.1198055002017,-24.5080228000845,0
+                -56.1198108002618,-24.5081630002843,0
+                -56.1196367992863,-24.5083325000606,0
+              </coordinates>
+            </LinearRing>
+          </outerBoundaryIs>
+        </Polygon>
+      </Placemark>
+    </Document>
+  </Document>
+</kml>
